@@ -5,8 +5,6 @@ This is a machine learning web application that predicts customer churn (whether
 ## 📊 Demo
 > You can run this locally using Streamlit (instructions below).
 
-preview 
-
 ## 🔍 Features
 - Predict churn risk using contract type, tenure, and monthly charges.
 - Trained using an **XGBoost Classifier**.
@@ -32,9 +30,9 @@ customer-churn-prediction/
 ## ⚙️ How to Run the App
 
 ### 🔧 Setup Instructions
-1. **Clone this repository** 
+1. **Clone this repository**
         
-   git clone https://github.com/your-username/customer-churn-prediction.git
+   git clone https://github.com/Andre69-cmd/customer-churn-prediction.git
    cd customer-churn-prediction
 
 Install required libraries
@@ -59,9 +57,6 @@ Input Features: Contract type, tenure, monthly charges (and other encoded featur
 Target: Churn (Yes/No)
 
 Dataset: Telco Customer Churn Dataset
-
-📸 Screenshot
-(Optional) Add a screenshot of your Streamlit app here:
 
 
 📚 Learning Outcomes
