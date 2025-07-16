@@ -35,7 +35,7 @@ customer-churn-prediction/
 ### 🔧 Setup Instructions
 1. **Clone this repository** 
         
-   git clone https://github.com/your-username/customer-churn-prediction.git
+   git clone https://github.com/Andre69-cmd/customer-churn-prediction.git
    cd customer-churn-prediction
 
 Install required libraries
